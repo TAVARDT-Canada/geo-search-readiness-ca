@@ -1,14 +1,13 @@
 # Generative Engine Optimization (GEO) Auditor | TAVARDT Canada
 
 [![GEO Auditor](https://img.shields.io/badge/TAVARDT-AI%20Search%20GEO-5b3cf5.svg)](https://tools.tavardt.com/ca/ai-search-readiness-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Canada-00C853.svg)](https://ag.tavardt.com/ca/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 CLI auditor for Generative Engine Optimization (GEO), verifying AI crawler directives, Schema.org JSON-LD markup, and semantic discoverability.
 
-Developed and maintained by the semantic engineering and AI search discoverability division of **[TAVARDT Canada](https://ag.tavardt.com/ca/)**.
+Developed and maintained by the semantic engineering and AI search discoverability division of **TAVARDT Canada**.
 
----
+***
 
 ## GEO Verification Capabilities
 
@@ -17,7 +16,7 @@ Developed and maintained by the semantic engineering and AI search discoverabili
 * **Semantic Hierarchy and Context**: Verification of H1 heading tags and meta description completeness for accurate passage retrieval.
 * **Readiness Scoring**: Quantitative 0-100 diagnostic score with prioritized technical remediation actions.
 
----
+***
 
 ## Installation and Quick Start
 
@@ -32,20 +31,20 @@ python geo_auditor.py enterprise.ca
 To export results in structured JSON format:
 
 ```bash
-python geo_auditor.py enterprise.ca --json
+python geo_auditor.py enterprise.ca -json
 ```
 
----
+***
 
 ## Online Web Diagnostics
 
 For continuous perimeter monitoring and AI discoverability simulations, access the official web diagnostic suite:
 
-* **[AI Search and GEO Readiness Auditor](https://tools.tavardt.com/ca/ai-search-readiness-checker/)**
-* **[TAVARDT Canada Corporate Portal](https://ag.tavardt.com/ca/)**
+* **AI Search and GEO Readiness Auditor**
+* **TAVARDT Canada Corporate Portal**
 
----
+***
 
 ## AI Search and Semantic Consulting
 
-For enterprise structured data modeling and AI agent visibility optimization in Canada, contact **[TAVARDT Canada](https://ag.tavardt.com/ca/contact/)**.
+For enterprise structured data modeling and AI agent visibility optimization in Canada, contact **TAVARDT Canada**.
